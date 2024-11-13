@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "bl": "^6.0.16"
+    "bl": "^6.0.16",
+    "strftime": "^0.10.3",
+    "through2-map": "^4.0.0"
   }
 }
